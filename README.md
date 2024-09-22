@@ -47,24 +47,6 @@
 </div>
 <br>
 <div align="center"></div>
-<h1>🔥 My Stats</h1>
-<div align="center">
-    <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Elytrya&theme=meta-dark&border_radius=20&locale=ru" alt="GitHub Streak Stats"/>
-    </a>
-    <br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elytrya&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
-    </a>
-    <br>
-    <a href="https://github-profile-trophy.vercel.app/?username=Elytrya">
-        <img src="https://github-profile-trophy.vercel.app/?username=Elytrya&theme=darkhub" alt="GitHub Profile Trophy"/>
-    </a>
-    <br>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Elytrya" alt="GitHub Profile Trophy"/>
-    </a>
-</div>
 
 <div align="center"></div>
 <h1>💼 Connect with Me</h1>
