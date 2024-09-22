@@ -7,7 +7,7 @@
 <div align="center"></div>
 <h1>About Me</h1>
 <div align="center">
-    I am a Developer discord bots <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV3OWFyeWJzaXN4a3liOGdkdzU5OTBsMnl6d3k2anZ4ZWFveDlyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.webp" width="30"> from Russia.
+    I am a Developer discord bots <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
     <br> 
     - :telescope: I work and participate in front-end and back-end development for creating bot applications.
     <br>
