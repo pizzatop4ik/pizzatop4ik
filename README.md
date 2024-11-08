@@ -40,10 +40,6 @@
   <br>
     <a href="https://t.me/pizzatooppp">
         <img src="https://img.shields.io/badge/Telegram-black?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-      <a href="https://spidernodes.space">
-        <img src="https://img.shields.io/badge/SpiderNodes-black?style=for-the-badge&logo=website&logoColor=white" alt="SpiderNodes Badge"/>
-    </a>
     <a href="https://www.youtube.com/@MrPizzaYT1">
         <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
